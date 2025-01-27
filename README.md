@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data Engineering Zoomcamp 2025 - HW 1
 
 **Question 1. Understanding docker first run**
@@ -169,4 +168,3 @@ Which of the following sequences, **respectively**, describes the workflow for:
 3. Remove all resources managed by terraform`
 
 Answer:  terraform init, terraform apply -auto-approve, terraform destroy
-=======
