@@ -33,8 +33,8 @@ download the dataset green taxi trips from October 2019:
 ![img1](images/img1.png)
 
 ingest to database:
-- [ingest_green_tripdata_2019](notebooks/ingest_green_tripdata_2019.ipynb)
-- [ingest_taxi_zone_lookup](notebooks/ingest_taxi_zone_lookup.ipynb)
+- [ingest_green_tripdata_2019](https://github.com/jeanneta/Data-Engineering-Zoomcamp-2025-HW1/blob/main/ingest_green_tripdata_2019.ipynb)
+- [ingest_taxi_zone_lookup](https://github.com/jeanneta/Data-Engineering-Zoomcamp-2025-HW1/blob/main/ingest_taxi_zone_lookup.ipynb)
 
 **Question 3. Trip Segmentation Count**
 
